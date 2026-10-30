@@ -1,3 +1,4 @@
+<div align="center">
 🎯 AI Resume Screening & Candidate Ranking System
 Stop scrolling through hundreds of resumes. Let NLP find the best fit in seconds.
 
