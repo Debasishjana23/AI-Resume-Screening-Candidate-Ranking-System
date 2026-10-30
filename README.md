@@ -61,7 +61,7 @@ Compares the job description against all resumes using TF-IDF and Cosine Similar
 🚀 Getting Started
 1. Clone the repository
 bash
-git clone https://github.com/Debasishjana23/AI-Resume-Screening.git
+git clone https://github.com/Debasishjana23/AI-Resume-Screening-Candidate-Ranking-System.git
 cd AI-Resume-Screening
 2. Install dependencies
 bash
