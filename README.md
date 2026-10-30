@@ -75,6 +75,7 @@ pip install -r requirements.txt
 bash
 streamlit run app.py
 
+
 Then open the URL shown in your terminal, usually:
 
 👉  http://localhost:8501
@@ -85,6 +86,7 @@ Rank	Resume	Score
 🥈 2	resume2.pdf	0.65
 🥉 3	resume3.pdf	0.48
 
+
 A higher score means the resume is more similar to the job description.
 
 📁 Project Structure
@@ -94,6 +96,7 @@ AI-Resume-Screening/
 ├── README.md           # Project documentation
 └── requirements.txt    # Python dependencies
 ⚠️ Limitations
+
 
 This is a learning project, so keep these in mind:
 
